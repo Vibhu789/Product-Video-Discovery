@@ -22,7 +22,6 @@ Type a product name, paste a product link, or upload a photo. The app studies th
 
 Built for the 24-hour assignment. It runs end to end on my machine; the rough edges are listed under.
 
-**Demo video:** _TODO: add link_
 
 ## Setup and running
 
@@ -135,6 +134,7 @@ If de-dup leaves a source short, the collector moves on to the next search terms
 ## Test results
 PVD: five products, with counts per source and a few good and bad matches._
 
-| Product | Input | Instagram | Meta | Notes |
-|---|---|---|---|---|
-| _TODO_ | | / 20 | / 20 | |
+Pass 36 case. 
+
+
+
